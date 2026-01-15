@@ -59,3 +59,26 @@ The dataset contains information about Netflix movies and TV shows, including:
 
 ## 📁 Project Structure
 
+## 📊 Key Visualizations
+
+### Movies vs TV Shows Distribution
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
+
+**Insight:**  
+Netflix hosts significantly more Movies than TV Shows.
+
+---
+
+### Content Growth Over Years
+![Content Growth](images/content_growth_over_years.png)
+
+**Insight:**  
+Netflix content production increased rapidly after 2015.
+
+---
+
+### Top 10 Content Producing Countries
+![Top Countries](images/top_countries.png)
+
+**Insight:**  
+The United States dominates Netflix content production.
