@@ -29,7 +29,7 @@ top-performing categories, regional performance, and profitability insights.
 ## 📊 Key Visualizations
 
 ### Sales by Product Category
-![Sales by Category](images/sales_by_category.png)
+![Sales by Category](images/Sales_by_category.png)
 
 **Insight:**  
 Food categories such as Egg, Meat & Fish contribute the highest share of revenue.
@@ -37,7 +37,7 @@ Food categories such as Egg, Meat & Fish contribute the highest share of revenue
 ---
 
 ### Monthly Sales Trend
-![Monthly Sales Trend](images/monthly_sales_trend.png)
+![Monthly Sales Trend](images/Monthly_Sales_Trend.png)
 
 **Insight:**  
 Sales increase during year-end months, indicating seasonal demand patterns.
@@ -45,7 +45,7 @@ Sales increase during year-end months, indicating seasonal demand patterns.
 ---
 
 ### Discount vs Profit Relationship
-![Discount vs Profit](images/discount_vs_profit.png)
+![Discount vs Profit](images/Discount_vs_Profit.png)
 
 **Insight:**  
 Higher discounts often lead to reduced or negative profit margins.
