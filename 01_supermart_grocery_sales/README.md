@@ -25,3 +25,27 @@ top-performing categories, regional performance, and profitability insights.
 - Focus promotions on top-performing categories
 - Optimize discount strategy
 - Improve supply planning during peak seasons
+
+## 📊 Key Visualizations
+
+### Sales by Product Category
+![Sales by Category](images/sales_by_category.png)
+
+**Insight:**  
+Food categories such as Egg, Meat & Fish contribute the highest share of revenue.
+
+---
+
+### Monthly Sales Trend
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+**Insight:**  
+Sales increase during year-end months, indicating seasonal demand patterns.
+
+---
+
+### Discount vs Profit Relationship
+![Discount vs Profit](images/discount_vs_profit.png)
+
+**Insight:**  
+Higher discounts often lead to reduced or negative profit margins.
