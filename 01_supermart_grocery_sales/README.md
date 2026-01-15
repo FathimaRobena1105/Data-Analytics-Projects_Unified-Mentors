@@ -49,3 +49,11 @@ Sales increase during year-end months, indicating seasonal demand patterns.
 
 **Insight:**  
 Higher discounts often lead to reduced or negative profit margins.
+
+---
+
+## 👤 Author
+**Fathima Robena**  
+Aspiring Data Analyst  
+
+GitHub: https://github.com/FathimaRobena1105
