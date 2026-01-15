@@ -57,8 +57,6 @@ The dataset contains information about Netflix movies and TV shows, including:
 
 ---
 
-## 📁 Project Structure
-
 ## 📊 Key Visualizations
 
 ### Movies vs TV Shows Distribution
