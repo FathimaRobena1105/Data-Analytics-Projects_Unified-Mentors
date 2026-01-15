@@ -80,3 +80,11 @@ Netflix content production increased rapidly after 2015.
 
 **Insight:**  
 The United States dominates Netflix content production.
+
+---
+
+## 👤 Author
+**Fathima Robena**  
+Aspiring Data Analyst  
+
+GitHub: https://github.com/FathimaRobena1105
